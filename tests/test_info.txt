@@ -1,0 +1,5 @@
+Some functionality of this program relied on parsing of unique file formats, and api calls to external software.
+
+These behaviors were validated manually, without unit tests
+
+All methods used in model pipelines and functionality are tested in this directory
